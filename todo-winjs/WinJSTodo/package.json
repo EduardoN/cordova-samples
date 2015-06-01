@@ -1,0 +1,7 @@
+{
+    "name": "WinJsTodo",
+    "version": "1.0.0",
+    "dependencies": {
+                "cordova.TypeScript.DefinitelyTyped": "~2.3.3"
+    }
+}
