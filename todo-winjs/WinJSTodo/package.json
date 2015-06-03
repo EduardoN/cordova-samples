@@ -1,7 +1,11 @@
 {
-    "name": "WinJsTodo",
-    "version": "1.0.0",
-    "dependencies": {
-                "cordova.TypeScript.DefinitelyTyped": "~2.3.3"
-    }
+  "name": "WinJsTodo",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "tsd": "~0.6.0",
+    "grunt-tsd": "~0.2.0",
+    "grunt-fetch-from-cdn": "~0.1.0"
+  }
 }
