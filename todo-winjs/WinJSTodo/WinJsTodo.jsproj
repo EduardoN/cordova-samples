@@ -122,7 +122,5 @@
   </ProjectExtensions>
   <Import Project="_apacheCordovaProjectSourceItems.Targets" Condition="Exists('_apacheCordovaProjectSourceItems.Targets')" />
   <Target Name="BeforeBuild">
-    <!-- Fetches dependencies -->
-    <Exec Command="Powershell -ExecutionPolicy RemoteSigned Unblock-File '$(ProjectDir)\FetchRequirements.ps1'; Powershell -File '$(ProjectDir)\FetchRequirements.ps1'" />
   </Target>
 </Project>

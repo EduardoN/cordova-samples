@@ -1,11 +1,11 @@
 {
-  "name": "WinJsTodo",
-  "version": "1.0.0",
-  "dependencies": {},
-  "devDependencies": {
-    "grunt": "~0.4.4",
-    "tsd": "~0.6.0",
-    "grunt-tsd": "~0.2.0",
-    "grunt-fetch-from-cdn": "~0.1.0"
-  }
+    "name": "WinJsTodo",
+    "version": "1.0.0",
+    "dependencies": { },
+    "devDependencies": {
+        "gulp": "~3.9.0",
+        "grunt": "~0.4.4",
+        "tsd": "~0.6.0",
+        "grunt-tsd": "~0.2.0"
+    }
 }

@@ -1,5 +1,6 @@
 {
     "name": "WinJsTodo",
     "dependencies": {
+        "winjs": "3.0.1"
     }
 }
