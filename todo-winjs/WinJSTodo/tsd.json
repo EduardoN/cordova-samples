@@ -1,0 +1,75 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "cordova/plugins/Camera.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/Device.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/Dialogs.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/DeviceMotion.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/DeviceOrientation.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/FileTransfer.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/FileSystem.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/Contacts.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/Media.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/MediaCapture.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/BatteryStatus.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/Splashscreen.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/NetworkInformation.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/Push.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/StatusBar.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/WebSQL.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/Vibration.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/Globalization.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/plugins/InAppBrowser.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "cordova/cordova.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "winjs/winjs.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    },
+    "azure-mobile-services-client/AzureMobileServicesClient.d.ts": {
+      "commit": "8b7cc13f6dbabd0a49de7ccba75c342160e600ad"
+    }
+  }
+}
